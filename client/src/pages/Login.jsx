@@ -32,7 +32,7 @@ const handleSubmit = async (e) => {
     }, {
       withCredentials: true, // <--- Important: Allow cookies
     });
-    console.log("data on login : ", { data });
+    // console.log("data on login : ", { data });
     if (data.success) {
       localStorage.setItem("userId", data?.user._id);
       localStorage.setItem("userRole", data?.user.role);
