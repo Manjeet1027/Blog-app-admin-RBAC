@@ -23,13 +23,19 @@ Install Dependencies:
 Navigate to both the client and server directories and install the required dependencies using npm
 
 -> In the 'server' directory
+
 cd server
+
 npm install
+
 npm run server
 
 -> In the 'client' directory
+
 cd client
+
 npm install
+
 npm run start
 
 
