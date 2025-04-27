@@ -41,6 +41,7 @@ npm run start
 
 # Technologies Used:
 Frontend: React, Material UI, Axios
+
 Backend: Node.js, Express, MongoDB
 
 Authentication: JWT (JSON Web Tokens) for user authentication
